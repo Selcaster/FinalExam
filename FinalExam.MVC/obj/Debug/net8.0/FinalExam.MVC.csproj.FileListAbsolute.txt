@@ -160,3 +160,14 @@ C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\obj\Debug\net8.0\refin
 C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\obj\Debug\net8.0\FinalExam.MVC.pdb
 C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\obj\Debug\net8.0\FinalExam.MVC.genruntimeconfig.cache
 C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\obj\Debug\net8.0\ref\FinalExam.MVC.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\MailKit.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\MimeKit.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\NETCore.MailKit.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\System.Management.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll

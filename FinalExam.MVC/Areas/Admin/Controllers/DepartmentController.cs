@@ -4,11 +4,12 @@ using Microsoft.EntityFrameworkCore;
 using FinalExam.DAL.Context;
 using FinalExam.Core.Entities;
 using FinalExam.BL.ViewModels.Department;
+using FinalExam.BL.Extensions;
 
 namespace FinalExam.Areas.Admin.Controllers;
 
 [Area("Admin")]
-[Authorize(Roles = nameof(Google.Apis.Admin.Directory.directory_v1.Data.Roles.Admin))]
+[Authorize(Roles = nameof(Roles.Admin))]
 public class DepartmentController(AppDbContext _context, IWebHostEnvironment _env) : Controller
 {
     public async Task<IActionResult> Index()
@@ -38,18 +39,19 @@ public class DepartmentController(AppDbContext _context, IWebHostEnvironment _en
             return View(vm);
         }
 
-        Departments department = new Departments;
+        Departments department = new Departments
         {
-            Name = department.Name,
-            CreatedTime = DateTime.Now,
+            Title = vm.Title,
+            CreatedAt = DateTime.Now,
+            Image = await vm.ImageUrl.Upload(_env.WebRootPath),
             IsDeleted = false,
         };
 
-        if (department.ImageUrl != null)
+        if (vm.ImageUrl != null)
         { 
             string filePath = Path.Combine(_env.WebRootPath, "imgs", "brands");
-            string newFileName = await department.ImageUrl!.Upload(filePath);
-            department.ImageUrl = newFileName;
+            string newFileName = await vm.ImageUrl!.Upload(filePath);
+            department.Image = newFileName;
         }
 
         await _context.Departments.AddAsync(department);
@@ -108,11 +110,11 @@ public class DepartmentController(AppDbContext _context, IWebHostEnvironment _en
         if (vm.Image != null)
         { 
             string filePath = Path.Combine(_env.WebRootPath, "imgs", "brands");
-            string newFileName = await vm.Image.Upload(filePath, departments.LogoUrl);
-            departments.LogoUrl = newFileName;
+            string newFileName = await vm.Image.Upload(filePath);
+            departments.Image = newFileName;
         }
 
-        departments.Name = vm.Name;
+        departments.Title = vm.Title;
 
         await _context.SaveChangesAsync();
 

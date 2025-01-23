@@ -171,7 +171,7 @@ public class AccountController : Controller
             return View();
         }
 
-        var roleRes = await _userManager.AddToRoleAsync(user, Core.Entities.Roles.User.GetRole());
+        var roleRes = await _userManager.AddToRoleAsync(user, nameof(Core.Entities.Roles.User));
         if (!roleRes.Succeeded)
         {
             foreach (var err in roleRes.Errors)

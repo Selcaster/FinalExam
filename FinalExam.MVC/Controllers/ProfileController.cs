@@ -5,6 +5,7 @@ using System.Security.Claims;
 using FinalExam.BL.ViewModels.Auths;
 using static System.Net.WebRequestMethods;
 using FinalExam.Core.Entities;
+using FinalExam.BL.Extensions;
 
 namespace FinalExam.MVC.Controllers;
 

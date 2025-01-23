@@ -21,7 +21,7 @@ public class GenericRepository<T>(AppDbContext _context) : IGenericRepository<T>
         SaveChanges();
     }
 
-    public async Task DeleteByIdAsync(Guid id)
+    public async Task DeleteByIdAsync(int id)
     {
         Delete(await GetByIdAsync(id));
         SaveChanges();
@@ -33,10 +33,10 @@ public class GenericRepository<T>(AppDbContext _context) : IGenericRepository<T>
     public IQueryable<T> GetAll()
         => Table.AsQueryable();
 
-    public async Task<T?> GetByIdAsync(Guid id)
+    public async Task<T?> GetByIdAsync(int id)
         => await Table.FindAsync(id);
 
-    public async Task<bool> IsExist(Guid id)
+    public async Task<bool> IsExist(int id)
         => await Table.AnyAsync(x => x.Id == id);
 
 

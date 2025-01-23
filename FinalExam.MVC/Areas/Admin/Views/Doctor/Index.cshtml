@@ -19,11 +19,6 @@
                         <th>Id</th>
                         <th>Name</th>
                         <th>Image</th>
-                        <th>Brand</th>
-                        <th>Description</th>
-                        <th>CostPrice</th>
-                        <th>SellPrice</th>
-                        <th>Discount</th>
                         <th colspan="2">Action</th>
                     </tr>
                 </thead>
@@ -34,7 +29,6 @@
                             <td>@data.Id</td>
                             <td>@data.Name</td>
                             <td><img width="100px" src="~/imgs/products/@data.Image" /></td>
-                            <td>@data.Description</td>
                             <td><a class="btn btn-success" href="/Admin/Product/Update/@data.Id">Update</a></td>
                             <td><a class="btn btn-danger" href="/Admin/Product/Delete/@data.Id">Delete</a></td>
                         </tr>
@@ -42,8 +36,6 @@
                 </tbody>
             </table>
         </div>
-
-        <partial name="_PaginationPartial" model="@(ViewBag.Pagination as PaginationVM)"/>
     </div>
 </div>
 

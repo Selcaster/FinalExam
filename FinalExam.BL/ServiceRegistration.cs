@@ -1,4 +1,5 @@
-﻿using FinalExam.BL.Services.DepartmentService;
+﻿using FinalExam.BL.Services;
+using FinalExam.BL.Services.DepartmentService;
 using FinalExam.BL.Services.DoctorService;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -10,6 +11,7 @@ public static class ServiceRegistration
     {
         services.AddScoped<IDepartmentService, DepartmentService>();
         services.AddScoped<IDoctorService, DoctorService>();
+        services.AddScoped<IAuthService, AuthService>();
         return services;
     }
     public static IServiceCollection AddAutoMapper(this IServiceCollection services)

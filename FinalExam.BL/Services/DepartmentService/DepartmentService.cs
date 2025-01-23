@@ -7,7 +7,7 @@ namespace FinalExam.BL.Services.DepartmentService;
 
 public class DepartmentService(IDepartmentRepository _repository, IMapper _mapper) : IDepartmentService
 {
-    public async Task<Guid> CreateAsync(DepartmentCreateVM vm)
+    public async Task<int> CreateAsync(DepartmentCreateVM vm)
     {
         Departments department = _mapper.Map<Departments>(vm);
         await _repository.CreateAsync(department);

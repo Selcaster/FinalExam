@@ -3,20 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\departmentservice\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\departmentservice\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\departmentservice\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\departmentservice\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|solutionrelative:finalexam.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\doctorservice\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\doctorservice\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\doctorservice\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\doctorservice\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\department\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\department\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.dal\\repositoryimplements\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|solutionrelative:finalexam.dal\\repositoryimplements\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.dal\\repositoryimplements\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|solutionrelative:finalexam.dal\\repositoryimplements\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,10 +171,6 @@
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\constants\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\constants\\contenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -107,30 +195,6 @@
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\shared\\components\\adminheader\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\department\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\viewcomponents\\adminheaderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\viewcomponents\\adminheaderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -147,28 +211,12 @@
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\extensions\\roleextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\extensions\\roleextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\areas\\admin\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\auths\\useradmininfovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -183,20 +231,12 @@
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\auths\\forgotvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\auths\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\auths\\profileupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\auths\\profileupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\auths\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\auths\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|solutionrelative:finalexam.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.dal\\repositoryimplements\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -223,10 +263,6 @@
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\department\\departmentgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\entities\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -247,20 +283,12 @@
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\departmentservice\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\departmentservice\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\operationnotvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\operationnotvalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\itemnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\departmentservice\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\departmentservice\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\authservices\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -271,20 +299,12 @@
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\authservices\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\doctorservice\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\doctorservice\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|solutionrelative:finalexam.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\profiles\\doctorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -299,20 +319,12 @@
       "RelativeMoniker": "D:0:0:{A120B1C5-246A-4892-9B97-6B1115196FB2}|FinalExam.DAL\\FinalExam.DAL.csproj|solutionrelative:finalexam.dal\\configurations\\doctorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\repositoryinterfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\repositoryinterfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\repositoryinterfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.core\\repositoryinterfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D94A6F-1889-4126-B13F-832A38437DA7}|FinalExam.Core\\FinalExam.Core.csproj|solutionrelative:finalexam.core\\repositoryinterfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\common\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -329,14 +341,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\doctor\\doctorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\doctor\\doctorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\viewmodels\\department\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\viewmodels\\department\\departmentupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.bl\\services\\doctorservice\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9513BF3B-9AD9-466B-82EA-8D331310ACAD}|FinalExam.BL\\FinalExam.BL.csproj|solutionrelative:finalexam.bl\\services\\doctorservice\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BE0216-20B3-4E0D-8B09-C10971D09162}|FinalExam.MVC\\FinalExam.MVC.csproj|c:\\users\\i novbe\\source\\repos\\finalexam.mvc\\finalexam.mvc\\wwwroot\\assets\\css\\style.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
@@ -370,479 +374,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FinalExam.MVC\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-23T14:00:49.231Z"
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T14:32:47.123Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\EmailService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\EmailService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:33:10.216Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
               "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAEwK0AAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAEwK0AAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:23:01.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IEmailService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IEmailService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\IEmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:34:39.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:55:50.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAADwv3IAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:07:07.718Z",
+              "WhenOpened": "2025-01-23T13:23:01.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Program.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAUwE8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:57:18.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:45:01.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
-              "RelativeToolTip": "FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:30:51.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Department.cs",
-              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\Department.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Department.cs",
-              "RelativeToolTip": "FinalExam.Core\\Entities\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:19:33.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContentType.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\ContentType.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Constants\\ContentType.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\ContentType.cs",
-              "RelativeToolTip": "FinalExam.BL\\Constants\\ContentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:53:48.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AuthTypeCustom.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\AuthTypeCustom.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Constants\\AuthTypeCustom.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\AuthTypeCustom.cs",
-              "RelativeToolTip": "FinalExam.BL\\Constants\\AuthTypeCustom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:53:54.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FinalExam.MVC",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\FinalExam.MVC.csproj",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
-              "RelativeToolTip": "FinalExam.MVC\\FinalExam.MVC.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T10:19:10.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmailTemplates.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\EmailTemplates.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Constants\\EmailTemplates.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\EmailTemplates.cs",
-              "RelativeToolTip": "FinalExam.BL\\Constants\\EmailTemplates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:53:35.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmailTemplates.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\EmailTemplates.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Constants\\EmailTemplates.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\EmailTemplates.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Constants\\EmailTemplates.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:46:24.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SeedExtension.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\SeedExtension.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Extensions\\SeedExtension.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\SeedExtension.cs",
-              "RelativeToolTip": "FinalExam.BL\\Extensions\\SeedExtension.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAswCcAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:29:53.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DatabaseSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\DatabaseSeeder.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\DatabaseSeeder.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\DatabaseSeeder.cs",
-              "RelativeToolTip": "FinalExam.MVC\\DatabaseSeeder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:47:51.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:55:43.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:41:03.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ContentType.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\ContentType.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Constants\\ContentType.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\ContentType.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Constants\\ContentType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:46:25.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AuthTypeCustom.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:45:58.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FinalExam.BL.csproj",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\FinalExam.BL.csproj",
-              "RelativeDocumentMoniker": "FinalExam.BL\\FinalExam.BL.csproj",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\FinalExam.BL.csproj",
-              "RelativeToolTip": "FinalExam.BL\\FinalExam.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T10:15:22.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:45:01.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:45:00.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
-              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:44:54.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:35:46.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AdminHeaderViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:00:15.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:00:39.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FinalExam.MVC.csproj",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\FinalExam.MVC.csproj",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
-              "RelativeToolTip": "FinalExam.MVC\\FinalExam.MVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T11:08:13.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:00:56.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:01:52.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:00:19.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:00:24.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T13:03:51.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IAuthService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:05:44.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "SmtpOptions.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SmtpOptions.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\SmtpOptions.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SmtpOptions.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\SmtpOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:35:06.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\User.cs",
-              "RelativeToolTip": "FinalExam.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:31:25.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "RoleExtension.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\RoleExtension.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Extensions\\RoleExtension.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\RoleExtension.cs",
-              "RelativeToolTip": "FinalExam.BL\\Extensions\\RoleExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:29:30.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "FileExtension.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\FileExtension.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Extensions\\FileExtension.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\FileExtension.cs",
-              "RelativeToolTip": "FinalExam.BL\\Extensions\\FileExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:29:09.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 10,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Roles.cs",
               "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\Roles.cs",
@@ -850,47 +412,129 @@
               "RelativeToolTip": "FinalExam.Core\\Entities\\Roles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:28:40.015Z"
+              "WhenOpened": "2025-01-23T13:28:40.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 0,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Controllers\\ProfileController.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\ProfileController.cs",
               "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:26:55.274Z"
+              "WhenOpened": "2025-01-23T13:26:55.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ForgotVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\User.cs",
+              "RelativeToolTip": "FinalExam.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:49:51.982Z"
+              "WhenOpened": "2025-01-23T13:31:25.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ForgotEmailVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:49:50.558Z"
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:00:19.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:03:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:00:39.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:01:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:00:24.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:00:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwDcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:41:03.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\LoginVM.cs",
               "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\LoginVM.cs",
@@ -898,263 +542,25 @@
               "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\LoginVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:49:53.502Z"
+              "WhenOpened": "2025-01-23T12:49:53.502Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ProfileUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:49:54.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:49:54.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Doctor.cs",
-              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\Doctor.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Doctor.cs",
-              "RelativeToolTip": "FinalExam.Core\\Entities\\Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:18:52.61Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "UserAdminInfoVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:49:55.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:29:57.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
-              "RelativeToolTip": "FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:30:39.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "RelativeToolTip": "FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:30:25.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "FinalExam.DAL\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:30:09.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 14,
               "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\ServiceRegistration.cs",
-              "RelativeToolTip": "FinalExam.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:29:07.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "20250123124113_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
-              "RelativeToolTip": "FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:41:14.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "DepartmentGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:24:22.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\appsettings.json",
-              "RelativeToolTip": "FinalExam.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-23T10:11:19.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "FinalExam.Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:16:36.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\AuditableEntity.cs",
-              "RelativeToolTip": "FinalExam.Core\\Entities\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:16:19.11Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "DepartmentCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:24:10.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\UserManager.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\UserManager.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\UserManager.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\UserManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:03:25.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "SignInManager.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SignInManager.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\SignInManager.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SignInManager.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\SignInManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:03:00.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\AuthService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wBgAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:03:56.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "FinalExam.BL\\ServiceRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:22:34.198Z"
+              "WhenOpened": "2025-01-23T10:17:15.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "OperationNotValidException.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\OperationNotValidException.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\OperationNotValidException.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\OperationNotValidException.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\OperationNotValidException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:03:38.72Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "ItemNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\ItemNotFoundException.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\ItemNotFoundException.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\ItemNotFoundException.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\ItemNotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:03:48.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 15,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DepartmentService\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DepartmentService\\IDepartmentService.cs",
@@ -1162,119 +568,24 @@
               "RelativeToolTip": "FinalExam.BL\\Services\\DepartmentService\\IDepartmentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:22:46.773Z"
+              "WhenOpened": "2025-01-23T10:22:46.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\DepartmentService\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:00:24.194Z"
+              "WhenOpened": "2025-01-23T10:22:34.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T12:00:03.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:23:20.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAKYCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T11:52:35.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T11:52:28.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "FinalExam.MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-23T11:52:26.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "DoctorProfile.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DoctorProfile.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Profiles\\DoctorProfile.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DoctorProfile.cs",
-              "RelativeToolTip": "FinalExam.BL\\Profiles\\DoctorProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:21:57.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "DepartmentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DepartmentProfile.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Profiles\\DepartmentProfile.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DepartmentProfile.cs",
-              "RelativeToolTip": "FinalExam.BL\\Profiles\\DepartmentProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:22:15.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "DoctorConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
-              "RelativeDocumentMoniker": "FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
-              "RelativeToolTip": "FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:29:41.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 18,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\RepositoryInterfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "FinalExam.Core\\RepositoryInterfaces\\IGenericRepository.cs",
@@ -1286,7 +597,763 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "RelativeToolTip": "FinalExam.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:30:25.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:23:34.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\DoctorService\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:23:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "FinalExam.BL\\Extensions\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:29:09.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:52:26.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DepartmentUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:23:06.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "FinalExam.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:16:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:07:07.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Department.cs",
+              "RelativeToolTip": "FinalExam.Core\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:19:33.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Program.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:57:18.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
+              "RelativeToolTip": "FinalExam.DAL\\RepositoryImplements\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:30:51.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:45:01.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:55:50.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IEmailService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:34:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\EmailService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\EmailService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:33:10.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FinalExam.MVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T14:00:49.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ContentType.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\ContentType.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Constants\\ContentType.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\ContentType.cs",
+              "RelativeToolTip": "FinalExam.BL\\Constants\\ContentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:53:48.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuthTypeCustom.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\AuthTypeCustom.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Constants\\AuthTypeCustom.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\AuthTypeCustom.cs",
+              "RelativeToolTip": "FinalExam.BL\\Constants\\AuthTypeCustom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:53:54.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FinalExam.MVC",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\FinalExam.MVC.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
+              "RelativeToolTip": "FinalExam.MVC\\FinalExam.MVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:19:10.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmailTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\EmailTemplates.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Constants\\EmailTemplates.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Constants\\EmailTemplates.cs",
+              "RelativeToolTip": "FinalExam.BL\\Constants\\EmailTemplates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:53:35.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmailTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\EmailTemplates.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Constants\\EmailTemplates.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\EmailTemplates.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Constants\\EmailTemplates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:46:24.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SeedExtension.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\SeedExtension.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Extensions\\SeedExtension.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\SeedExtension.cs",
+              "RelativeToolTip": "FinalExam.BL\\Extensions\\SeedExtension.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:29:53.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\DatabaseSeeder.cs",
+              "RelativeToolTip": "FinalExam.MVC\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:47:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:55:43.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ContentType.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\ContentType.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Constants\\ContentType.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\ContentType.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Constants\\ContentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:46:25.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthTypeCustom.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Constants\\AuthTypeCustom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:45:58.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FinalExam.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\FinalExam.BL.csproj",
+              "RelativeDocumentMoniker": "FinalExam.BL\\FinalExam.BL.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\FinalExam.BL.csproj",
+              "RelativeToolTip": "FinalExam.BL\\FinalExam.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T10:15:22.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:45:01.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:45:00.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\Views\\Shared\\Components\\AdminHeader\\Default.cshtml",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T13:44:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:35:46.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AdminHeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
+              "RelativeToolTip": "FinalExam.MVC\\Areas\\Admin\\ViewComponents\\AdminHeaderViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:00:15.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FinalExam.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\FinalExam.MVC.csproj",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\FinalExam.MVC.csproj",
+              "RelativeToolTip": "FinalExam.MVC\\FinalExam.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T11:08:13.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\IAuthService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:05:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SmtpOptions.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SmtpOptions.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\SmtpOptions.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SmtpOptions.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\SmtpOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:35:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RoleExtension.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\RoleExtension.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Extensions\\RoleExtension.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Extensions\\RoleExtension.cs",
+              "RelativeToolTip": "FinalExam.BL\\Extensions\\RoleExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T13:29:30.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ForgotVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\ForgotVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:51.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ForgotEmailVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\ForgotEmailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProfileUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\ProfileUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:54.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\Doctor.cs",
+              "RelativeToolTip": "FinalExam.Core\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:18:52.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserAdminInfoVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Auths\\UserAdminInfoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:49:55.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "FinalExam.DAL\\Configurations\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:29:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
+              "RelativeToolTip": "FinalExam.DAL\\RepositoryImplements\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:30:39.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "FinalExam.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:30:09.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "FinalExam.DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:29:07.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250123124113_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
+              "RelativeToolTip": "FinalExam.DAL\\Migrations\\20250123124113_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:41:14.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DepartmentGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Department\\DepartmentGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:24:22.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\appsettings.json",
+              "RelativeToolTip": "FinalExam.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T10:11:19.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "FinalExam.Core\\Entities\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\Entities\\AuditableEntity.cs",
+              "RelativeToolTip": "FinalExam.Core\\Entities\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:16:19.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DepartmentCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Department\\DepartmentCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:24:10.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\UserManager.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\UserManager.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SignInManager.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SignInManager.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\SignInManager.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\SignInManager.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\SignInManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:00.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthService.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\AuthService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OperationNotValidException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\OperationNotValidException.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\OperationNotValidException.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\OperationNotValidException.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\OperationNotValidException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:38.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ItemNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\ItemNotFoundException.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\ItemNotFoundException.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\ItemNotFoundException.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\ItemNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:03:48.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\AuthServices\\RegisterDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:00:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
+              "RelativeToolTip": "FinalExam.BL\\Services\\AuthServices\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:00:03.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKYCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:52:35.666Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 75,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalExam.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T11:52:28.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "DoctorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Profiles\\DoctorProfile.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DoctorProfile.cs",
+              "RelativeToolTip": "FinalExam.BL\\Profiles\\DoctorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:21:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "FinalExam.BL\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "FinalExam.BL\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:22:15.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "DoctorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
+              "RelativeDocumentMoniker": "FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
+              "RelativeToolTip": "FinalExam.DAL\\Configurations\\DoctorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T10:29:41.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
               "Title": "IDoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\RepositoryInterfaces\\IDoctorRepository.cs",
               "RelativeDocumentMoniker": "FinalExam.Core\\RepositoryInterfaces\\IDoctorRepository.cs",
@@ -1298,7 +1365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 80,
               "Title": "IDepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.Core\\RepositoryInterfaces\\IDepartmentRepository.cs",
               "RelativeDocumentMoniker": "FinalExam.Core\\RepositoryInterfaces\\IDepartmentRepository.cs",
@@ -1310,19 +1377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ServiceRegistration.cs",
-              "RelativeToolTip": "FinalExam.BL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:17:15.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 81,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Common\\HomeVM.cs",
               "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Common\\HomeVM.cs",
@@ -1334,7 +1389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 82,
               "Title": "DoctorUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Doctor\\DoctorUpdateVM.cs",
               "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Doctor\\DoctorUpdateVM.cs",
@@ -1346,7 +1401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 83,
               "Title": "DoctorGetVM.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Doctor\\DoctorGetVM.cs",
               "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Doctor\\DoctorGetVM.cs",
@@ -1358,7 +1413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 84,
               "Title": "DoctorCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Doctor\\DoctorCreateVM.cs",
               "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Doctor\\DoctorCreateVM.cs",
@@ -1370,31 +1425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "DepartmentUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
-              "RelativeToolTip": "FinalExam.BL\\ViewModels\\Department\\DepartmentUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T11:23:06.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
-              "RelativeToolTip": "FinalExam.BL\\Services\\DoctorService\\IDoctorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T10:23:34.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "style.scss",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\wwwroot\\assets\\css\\style.scss",
               "RelativeDocumentMoniker": "FinalExam.MVC\\wwwroot\\assets\\css\\style.scss",
@@ -1406,7 +1437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "responsive.css",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\wwwroot\\assets\\css\\responsive.css",
               "RelativeDocumentMoniker": "FinalExam.MVC\\wwwroot\\assets\\css\\responsive.css",
@@ -1418,7 +1449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "font-awesome.min.css",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
               "RelativeDocumentMoniker": "FinalExam.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
@@ -1430,7 +1461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.MVC\\wwwroot\\assets\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "FinalExam.MVC\\wwwroot\\assets\\css\\bootstrap.css",
@@ -1442,7 +1473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "FinalExam.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\FinalExam.MVC\\FinalExam.DAL\\FinalExam.DAL.csproj",
               "RelativeDocumentMoniker": "FinalExam.DAL\\FinalExam.DAL.csproj",

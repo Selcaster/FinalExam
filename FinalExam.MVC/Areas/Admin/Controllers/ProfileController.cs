@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.IdentityModel.Tokens;
-using System.Security.Claims;
+﻿using FinalExam.BL.Extensions;
 using FinalExam.BL.ViewModels.Auths;
-using NETCore.MailKit.Core;
-using Google.Apis.Admin.Directory.directory_v1.Data;
+using FinalExam.Core.Entities;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 namespace FinalExam.MVC.Areas.Admin.Controllers;
 
 [Authorize]

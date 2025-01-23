@@ -7,7 +7,7 @@ namespace FinalExam.BL.Services.DoctorService;
 
 public class DoctorService(IDoctorRepository _repository, IMapper _mapper) : IDoctorService
 {
-    public async Task<Guid> CreateAsync(DoctorCreateVM vm)
+    public async Task<int> CreateAsync(DoctorCreateVM vm)
     {
         Doctors doctor = _mapper.Map<Doctors>(vm);
         await _repository.CreateAsync(doctor);
