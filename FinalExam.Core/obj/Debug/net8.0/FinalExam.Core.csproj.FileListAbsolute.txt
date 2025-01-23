@@ -1,0 +1,14 @@
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.deps.json
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.runtimeconfig.json
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\bin\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\refint\FinalExam.Core.dll
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.pdb
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\FinalExam.Core.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\FinalExam.MVC\FinalExam.Core\obj\Debug\net8.0\ref\FinalExam.Core.dll
